@@ -1,0 +1,247 @@
+{
+    "events": {
+        "chm": {
+            "course_ref": "11703",
+            "date_label": "2026/03",
+            "event_id": 6049
+        },
+        "chm2": {
+            "course_ref": "11709",
+            "date_label": "2026/04",
+            "event_id": 6049
+        }
+    },
+    "courses": {
+        "10105": {
+            "track_id": 10001,
+            "surface_id": 1101,
+            "dist_type_id": 3401,
+            "distance": 2600,
+            "direction_key": "Race0238"
+        },
+        "10301": {
+            "track_id": 10003,
+            "surface_id": 1101,
+            "dist_type_id": 3101,
+            "distance": 1000,
+            "direction_key": "Race0242"
+        },
+        "10302": {
+            "track_id": 10003,
+            "surface_id": 1101,
+            "dist_type_id": 3101,
+            "distance": 1200,
+            "direction_key": "Race0239"
+        },
+        "10501": {
+            "track_id": 10005,
+            "surface_id": 1101,
+            "dist_type_id": 3101,
+            "distance": 1200,
+            "direction_key": "Race0238"
+        },
+        "10504": {
+            "track_id": 10005,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2000,
+            "direction_key": "Race0238"
+        },
+        "10506": {
+            "track_id": 10005,
+            "surface_id": 1101,
+            "dist_type_id": 3401,
+            "distance": 2500,
+            "direction_key": "Race0238"
+        },
+        "10602": {
+            "track_id": 10006,
+            "surface_id": 1101,
+            "dist_type_id": 3201,
+            "distance": 1600,
+            "direction_key": "Race0239"
+        },
+        "10604": {
+            "track_id": 10006,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2000,
+            "direction_key": "Race0239"
+        },
+        "10606": {
+            "track_id": 10006,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2400,
+            "direction_key": "Race0239"
+        },
+        "10611": {
+            "track_id": 10006,
+            "surface_id": 1201,
+            "dist_type_id": 3201,
+            "distance": 1600,
+            "direction_key": "Race0239"
+        },
+        "10701": {
+            "track_id": 10007,
+            "surface_id": 1101,
+            "dist_type_id": 3101,
+            "distance": 1200,
+            "direction_key": "Race0239"
+        },
+        "10708": {
+            "track_id": 10007,
+            "surface_id": 1201,
+            "dist_type_id": 3201,
+            "distance": 1800,
+            "direction_key": "Race0239"
+        },
+        "10805": {
+            "track_id": 10008,
+            "surface_id": 1101,
+            "dist_type_id": 3201,
+            "distance": 1600,
+            "direction_key": "Race0238"
+        },
+        "10807": {
+            "track_id": 10008,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2000,
+            "direction_key": "Race0238"
+        },
+        "10808": {
+            "track_id": 10008,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2200,
+            "direction_key": "Race0238"
+        },
+        "10810": {
+            "track_id": 10008,
+            "surface_id": 1101,
+            "dist_type_id": 3401,
+            "distance": 3000,
+            "direction_key": "Race0238"
+        },
+        "10811": {
+            "track_id": 10008,
+            "surface_id": 1101,
+            "dist_type_id": 3401,
+            "distance": 3200,
+            "direction_key": "Race0238"
+        },
+        "10901": {
+            "track_id": 10009,
+            "surface_id": 1101,
+            "dist_type_id": 3101,
+            "distance": 1200,
+            "direction_key": "Race0238"
+        },
+        "10902": {
+            "track_id": 10009,
+            "surface_id": 1101,
+            "dist_type_id": 3101,
+            "distance": 1400,
+            "direction_key": "Race0238"
+        },
+        "10903": {
+            "track_id": 10009,
+            "surface_id": 1101,
+            "dist_type_id": 3201,
+            "distance": 1600,
+            "direction_key": "Race0238"
+        },
+        "10905": {
+            "track_id": 10009,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2000,
+            "direction_key": "Race0238"
+        },
+        "10906": {
+            "track_id": 10009,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2200,
+            "direction_key": "Race0238"
+        },
+        "10907": {
+            "track_id": 10009,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2400,
+            "direction_key": "Race0238"
+        },
+        "11101": {
+            "track_id": 10101,
+            "surface_id": 1201,
+            "dist_type_id": 3101,
+            "distance": 1200,
+            "direction_key": "Race0238"
+        },
+        "11102": {
+            "track_id": 10101,
+            "surface_id": 1201,
+            "dist_type_id": 3201,
+            "distance": 1800,
+            "direction_key": "Race0238"
+        },
+        "11103": {
+            "track_id": 10101,
+            "surface_id": 1201,
+            "dist_type_id": 3301,
+            "distance": 2000,
+            "direction_key": "Race0238"
+        },
+        "11302": {
+            "track_id": 10103,
+            "surface_id": 1201,
+            "dist_type_id": 3201,
+            "distance": 1600,
+            "direction_key": "Race0239"
+        },
+        "11303": {
+            "track_id": 10103,
+            "surface_id": 1201,
+            "dist_type_id": 3301,
+            "distance": 2100,
+            "direction_key": "Race0239"
+        },
+        "11402": {
+            "track_id": 10104,
+            "surface_id": 1201,
+            "dist_type_id": 3201,
+            "distance": 1600,
+            "direction_key": "Race0239"
+        },
+        "11502": {
+            "track_id": 10105,
+            "surface_id": 1201,
+            "dist_type_id": 3201,
+            "distance": 1600,
+            "direction_key": "Race0239"
+        },
+        "11504": {
+            "track_id": 10105,
+            "surface_id": 1201,
+            "dist_type_id": 3301,
+            "distance": 2000,
+            "direction_key": "Race0239"
+        },
+        "11703": {
+            "track_id": 10203,
+            "surface_id": 1101,
+            "dist_type_id": 3301,
+            "distance": 2200,
+            "direction_key": "Race0239"
+        },
+        "11709": {
+            "track_id": 10203,
+            "surface_id": 1201,
+            "dist_type_id": 3301,
+            "distance": 2000,
+            "direction_key": "Race0239"
+        }
+    }
+}
