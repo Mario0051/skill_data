@@ -6,14 +6,9 @@
             "event_id": 6049
         },
         "chm2": {
-            "course_ref": "10606",
-            "date_label": "2026/06",
+            "course_ref": "10507",
+            "date_label": "2026/07",
             "event_id": 6049
-        },
-        "loh": {
-            "course_ref": "10801",
-            "date_label": "2026/05",
-            "event_id": 1
         }
     },
     "courses": {
@@ -57,6 +52,13 @@
             "surface_id": 1101,
             "dist_type_id": 3401,
             "distance": 2500,
+            "direction_key": "Race0238"
+        },
+        "10507": {
+            "track_id": 10005,
+            "surface_id": 1101,
+            "dist_type_id": 3401,
+            "distance": 3600,
             "direction_key": "Race0238"
         },
         "10602": {
