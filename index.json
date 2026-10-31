@@ -1,9 +1,14 @@
 {
     "events": {
         "chm": {
-            "course_ref": "10808",
-            "date_label": "2026/10",
+            "course_ref": "10506",
+            "date_label": "2026/12",
             "event_id": 6049
+        },
+        "loh": {
+            "course_ref": "10810",
+            "date_label": "2026/11",
+            "event_id": 1
         }
     },
     "courses": {
